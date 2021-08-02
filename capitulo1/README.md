@@ -1,7 +1,6 @@
 # Advanced Linux Programming - Lenguaje de Programacion 3
 Para ejecutar el programa:
 ```bash
-    cd capitulo1
     make
     ./reciprocal 7
 ```
